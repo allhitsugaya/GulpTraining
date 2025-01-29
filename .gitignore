@@ -12,3 +12,8 @@
 #!.yarn/cache
 .pnp.*
 node_modules
+.editorconfig
+.idea
+.gitattributes
+.yarn
+.yarnrc.yml
