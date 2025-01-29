@@ -1,0 +1,13 @@
+{
+  "name": "untitled",
+  "type": "module",
+  "packageManager": "yarn@4.5.2",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "gulp": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^3.0.0",
+    "swiper": "^11.2.1"
+  }
+}
